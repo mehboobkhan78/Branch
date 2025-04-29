@@ -8,6 +8,8 @@ public class GitDataApplication {
 
 	public static void main(String[] args) {
 		int data =100;
+		int user = 1;
+		String name = "khan";
 		SpringApplication.run(GitDataApplication.class, args);
 	}
 
