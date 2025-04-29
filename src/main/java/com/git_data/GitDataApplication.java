@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitDataApplication {
 
 	public static void main(String[] args) {
-		int devmem= 100;
-		boolean devmem = true;
+		int data =100;
 		SpringApplication.run(GitDataApplication.class, args);
 	}
 
